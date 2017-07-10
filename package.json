@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/mcccclean/opine-sprites#readme",
   "dependencies": {
-    "gamesprites": "^1.0.1"
+    "gamesprites": "^1.1.0"
   },
   "peerDependencies": {
     "gulp": ">=3.9.0",
